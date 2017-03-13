@@ -1,0 +1,85 @@
+#top {
+    background: #0579B2;
+    height: 335px;
+    width: 80%;
+    padding-bottom: 30px;
+    margin: auto;
+}
+.h3 {
+    background: #B26300;
+    text-align: center;
+    font-size: 32px;
+}
+
+#body {
+    background-image: url("http://img15.nnm.me/9/e/b/3/b/23ed4391f405534f9b9a4c5a214.jpg") ;
+}
+#td1 {
+    text-align: center;
+    font-size: 22px;
+    padding-bottom: 80px;
+    line-height: 40px;
+}
+#td2 {
+    padding-bottom: 80px;
+    padding-left: 20px;
+}
+
+#ulbar li {
+    text-align: center;
+    display: inline;
+    font-size: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#ulbar {
+    background: #B26300;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.hbar {
+    margin-top:25px;
+    margin-left: 158px;
+    text-align: center;
+    width:80%;
+    font-size: 32px;
+    background: #B26300;
+}
+.p {
+    background: #3CA9DF;
+    width: 80%;
+    margin: auto;
+    font-size: 19px;
+    text-align: justify;
+}
+.p2 {
+    padding-top:20px;;
+    background: #3CA9DF;
+    width: 80%;
+    margin: auto;
+    font-size: 19px;
+    text-align: center;
+
+}
+.ul1 {
+    padding-top:20px;;
+    background: #3CA9DF;
+    width: 77.47%;
+    margin: auto;
+    font-size: 19px;
+    text-align: center;
+
+}
+#div666 {
+    text-align: center;
+    margin: auto;
+    background:#3CA9DF ;
+    width: 80%;
+    padding-top: 40px;
+}
+/*0579B2*/
+/*3CA9DF*/
+/*00AAFF*/
+/*FFB559*/
