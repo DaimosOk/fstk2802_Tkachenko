@@ -1,0 +1,36 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background: #a6a6a6;
+}
+.menu li {
+    display: inline;
+    text-align: center;
+    padding: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.menu li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.header, .box{
+    padding: 5px;
+}
+.content {
+    background: #efeded;
+}
+.content p {
+    background: #a6a6a6;
+}
+.footer {
+    height: 100px;
+    background: #a6a6a6;
+}
+.hover:hover {
+    font-size: 19px;
+    background: red;
+}
