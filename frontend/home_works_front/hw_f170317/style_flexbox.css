@@ -1,0 +1,98 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.b1 {
+    display: flex;
+    justify-content: space-around;
+}
+.b1 > div {
+    border: 3px solid black;
+    font-size: 22px;
+    padding: 10px 35px;
+    margin: 15px;
+    flex-grow: 1;
+    text-align: center;
+
+}
+.b2 {
+    display: flex;
+    justify-content: space-around;
+}
+.b2 > div {
+    border: 3px solid black;
+    font-size: 22px;
+    padding: 10px 35px;
+    margin: 15px;
+    flex-grow: 1;
+    text-align: center;
+}
+.b3 {
+    display: flex;
+    justify-content: space-around;
+}
+.b3 > div {
+    border: 3px solid black;
+    font-size: 22px;
+    padding: 10px 35px;
+    margin: 15px;
+    flex-grow: 1;
+    text-align: center;
+}
+.b4 {
+    display: flex;
+    justify-content: space-around;
+}
+.b4 > div {
+    border: 3px solid black;
+    font-size: 22px;
+    padding: 10px 35px;
+    margin: 15px;
+    flex-grow: 1;
+    text-align: center;
+}
+.b5 {
+    display: flex;
+}
+.b5 .b5_one {
+    flex-grow: 6;
+    border: 3px solid black;
+    font-size: 22px;
+    padding: 10px 35px;
+    margin: 15px;
+    text-align: center;
+}.b5 .b5_two {
+    flex-grow: 2;
+    border: 3px solid black;
+    font-size: 22px;
+    padding: 10px 35px;
+    margin: 15px;
+    text-align: center;
+}
+.b6 {
+    display: flex;
+}
+.b6 .b6_one{
+    border: 3px solid black;
+    font-size: 22px;
+    padding: 10px 35px;
+    margin: 15px;
+    flex-grow: 1;;
+    text-align: center;
+}
+.b6 .b6_two{
+    border: 3px solid black;
+    font-size: 22px;
+    padding: 10px 35px;
+    margin: 15px;
+    flex-grow: 4;
+    text-align: center;
+}
+.b6 .b6_third{
+    border: 3px solid black;
+    font-size: 22px;
+    padding: 10px 35px;
+    margin: 15px;
+    flex-grow: 1;
+    text-align: center;
+}

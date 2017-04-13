@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+.header {
+    display: flex;
+    justify-content: flex-end;
+    background: #a2a2a2;
+
+}
+.header-title .header-subtitle {
+    flex-grow: 1;
+}
+.link-VPS {
+    flex-grow: 4;
+    text-align: center;
+    background: #46b980;
+    color: #fff;
+    padding: 11px 5px;
+    margin: 25px 25px;
+}
+.link-VPS:hover {
+    background: #389466;
+    color: #fff;
+    padding: 11px 5px;
+}
+.link-VPS:active {
+    background: #389466;
+    color: #fff;
+    padding: 11px 5px;
+}
+.link-VPS:focus {
+    background: #389466;
+    color: #fff;
+    padding: 11px 5px;
+}
+
+.link-STW {
+    flex-grow: 4;
+    text-align: center;
+    background: #c9bac1;
+    color: #fff;
+    padding: 11px 5px;
+    margin: 25px 25px;
+}
+.link-STW:hover {
+    background: #8a7e83;
+    color: #fff;
+    padding: 11px 5px;
+}
+.link-STW:active {
+    background: #8a7e83;
+    color: #fff;
+    padding: 11px 5px;
+}
+.link-STWS:focus {
+    background: #8a7e83;
+    color: #fff;
+    padding: 11px 5px;
+}
